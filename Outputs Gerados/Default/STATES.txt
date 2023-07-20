@@ -1,0 +1,14 @@
+IDLE 	
+The PHY layer is IDLE.
+
+CCA_BUSY 	
+The PHY layer has sense the medium busy through the CCA mechanism
+
+TX 	
+The PHY layer is sending a packet.
+
+RX 	
+The PHY layer is receiving a packet.
+
+SWITCHING 	
+The PHY layer is switching to other channel.
