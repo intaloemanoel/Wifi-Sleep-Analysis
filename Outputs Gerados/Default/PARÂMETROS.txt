@@ -1,0 +1,13 @@
+PARÂMETROS:
+    --dataRate:        Data rate [1Mbps]
+    --packetSize:      size of application packet sent [1000]
+    --duration:        duration (seconds) of the experiment [10]
+    --initialEnergy:   Initial Energy (Joule) of each node [7.5]
+    --voltage:         Supply voltage (Joule) [3]
+    --txPowerStart:    Minimum available transmission level (dbm) [0]
+    --txPowerEnd:      Maximum available transmission level (dbm) [15]
+    --nTxPowerLevels:  Number of transmission power levels available between txPowerStart and txPowerEnd included [16]
+    --txPowerLevel:    Transmission power level [0]
+    --idleCurrent:     The radio Idle current in Ampere [0.273]
+    --txCurrent:       The radio Tx current in Ampere [0.38]
+    --verbose:         turn on all WifiNetDevice log components [false]
