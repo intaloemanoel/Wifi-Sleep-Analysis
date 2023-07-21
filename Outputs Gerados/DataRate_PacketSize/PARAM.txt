@@ -1,0 +1,2 @@
+--dataRate=2Mbps
+--packetSize=5000

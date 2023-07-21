@@ -1,0 +1,2 @@
+--txPowerLevel=10
+--nTxPowerLevels=36

@@ -1,0 +1,2 @@
+--txPowerStart=15
+--txPowerLevel=30
