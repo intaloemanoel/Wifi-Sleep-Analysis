@@ -1,0 +1,1 @@
+--idleCurrent=50 --txCurrent=100 --voltage=30
