@@ -1,0 +1,1 @@
+ --idleCurrent=1 --txCurrent=2
